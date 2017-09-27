@@ -10,7 +10,9 @@ Exposes DSP as a global variable in a browser
 
 Include the script: 
 
-    <script src="/dist/DSP.js"></script>
+~~~html
+<script src="/dist/DSP.js"></script>
+~~~
 
 Use the methods, e.g. DFT: 
 
