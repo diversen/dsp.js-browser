@@ -4,9 +4,9 @@ A browser version of dsp.js
 
 See: https://github.com/corbanbrook/dsp.js
 
-Exposes DSP as a global variable. 
+Exposes DSP as a global variable in a browser
 
-Usage: 
+## Usage: 
 
 Include the script: 
 
@@ -16,8 +16,10 @@ Use the methods, e.g. DFT:
 
 var ft = new DSP.DFT(waveValues.length);
 
-License. 
+Again see: https://github.com/corbanbrook/dsp.js
 
-MIT
+for exact usage. 
 
-See: https://github.com/corbanbrook/dsp.js
+## License. 
+
+MIT © [Dennis Iversen](https://github.com/diversen)

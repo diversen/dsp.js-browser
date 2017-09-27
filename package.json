@@ -1,7 +1,7 @@
 {
   "name": "dsp.js-browser",
   "version": "1.0.1",
-  "description": "dsp.js for browser direct browser usage",
+  "description": "dsp.js for direct browser usage",
   "main": "index.js",
   "dependencies": {
     "dsp.js": "^1.0.1"
