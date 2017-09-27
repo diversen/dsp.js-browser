@@ -14,7 +14,9 @@ Include the script:
 
 Use the methods, e.g. DFT: 
 
+~~~js
 var ft = new DSP.DFT(waveValues.length);
+~~~
 
 Again see: https://github.com/corbanbrook/dsp.js
 
