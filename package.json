@@ -1,0 +1,26 @@
+{
+  "name": "dsp.js-browser",
+  "version": "1.0.1",
+  "description": "dsp.js for browser direct browser usage",
+  "main": "index.js",
+  "dependencies": {
+    "dsp.js": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/dsp.js-browser.git"
+  },
+  "keywords": [
+    "dsp"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/dsp.js-browser/issues"
+  },
+  "homepage": "https://github.com/diversen/dsp.js-browser#readme"
+}
